@@ -5,3 +5,5 @@ fpdf
 Pillow
 statsmodels
 st-gsheets-connection
+openpyxl
+reportlab
